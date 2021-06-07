@@ -36,6 +36,14 @@ module.exports = {
       {
         text: 'Uputstvo za Korisnika',
         link: '/user/',
+      },
+      {
+        text: 'Uputstvo za Organizatora',
+        link: '/organizer/',
+      },
+      {
+        text: 'Uputstvo za Administratora',
+        link: '/admin/',
       }
     ],
     sidebar: {
@@ -48,6 +56,34 @@ module.exports = {
             'home-page',
             'celebration-requests',
             'celebration-proposals',
+            'additional',
+          ]
+        }
+      ],
+      '/organizer/': [
+        {
+          title: 'Uputstvo za Organizatora',
+          collapsable: false,
+          children: [
+            'auth',
+            'home-page',
+            'celebration-requests',
+            'celebration-proposals',
+            'additional',
+          ]
+        }
+      ],
+      '/admin/': [
+        {
+          title: 'Uputstvo za Administratora',
+          collapsable: false,
+          children: [
+            'auth',
+            'home-page',
+            'users',
+            'organizers',
+            'collaborators',
+            'celebrations',
             'additional',
           ]
         }

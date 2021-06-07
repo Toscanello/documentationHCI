@@ -48,4 +48,4 @@ Poslednji deo forme jeste prikaz svih informacija proslave i njenih pojedinačni
   <img src="/celebration_request_preview.png">
 </p>
 
-Ukoliko ste sigurni da su sve unete informacije i detalji ispravni, kliknite na dugme `Sačuvaj` nakon čega će zahtev za proslavu biti kreiran i bićete vraćeni na početnu stranu.
+Ukoliko ste sigurni da su sve unete informacije i detalji ispravni, kliknite na dugme `Sačuvan` nakon čega će zahtev za proslavu biti kreiran i bićete vraćeni na početnu stranu.
