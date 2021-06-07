@@ -47,6 +47,7 @@ module.exports = {
             '',
             'auth',
             'celebration-requests',
+            'additional',
           ]
         }
       ],
