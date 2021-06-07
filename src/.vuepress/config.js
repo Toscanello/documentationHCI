@@ -45,6 +45,8 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'auth',
+            'celebration-requests',
           ]
         }
       ],
