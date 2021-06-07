@@ -34,31 +34,25 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Uputstvo',
+        text: 'Uputstvo za Korisnika',
         link: '/user/',
       }
     ],
     sidebar: {
       '/user/': [
         {
-          title: 'Uputstvo',
+          title: 'Uputstvo za Korisnika',
           collapsable: false,
           children: [
-            '',
             'auth',
+            'home-page',
             'celebration-requests',
+            'celebration-proposals',
             'additional',
           ]
         }
       ],
     },
-    configureWebpack: {
-      resolve: {
-        alias: {
-          '@user-images': '/src/images/'
-        }
-      }
-    }
   },
 
   /**
