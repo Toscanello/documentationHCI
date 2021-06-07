@@ -1,20 +1,26 @@
-# Ponude organizatora
+# Davanje ponude za proslavu
 
 ## Pregled detalja proslave
-Na stranici za pregled detalja proslave, nalaze se svi pojedinačni detalji za prethodno odabranu proslavu. Klikom na dugme u koloni `Pregled` otvara se prozor sa prikazom odabranog detalja proslave. Klikom na dugme u koloni `Predlozi`, učitava se stranica sa [predlozima](#pregled-ponuda-proslave) kreiranim od strane organizatora koji je preuzeo proslavu.
+Na stranici za pregled detalja proslave, nalaze se svi pojedinačni detalji za prethodno odabranu proslavu. Klikom na dugme u koloni `Pregled` otvara se prozor sa prikazom odabranog detalja proslave. Klikom na dugme u koloni `Predlozi`, učitava se stranica sa prethodno kreiranim [predlozima](#pregled-ponuda-proslave) za odabranu proslavu.
 <p align="center">
   <img src="/client_celebration_proposals_details.png">
 </p>
 
 ## Pregled ponuda proslave
-Na stranici za pregled ponuda, odnosno predloga vezanih za određeni detalj proslave se nalazi tabela sa svim predlozima kreiranim od strane organizatora koji je preuzeo proslavu. Pojedinačne predloge je moguće komentarisati, prihvatiti ili odbiti. 
+Na stranici za pregled ponuda, odnosno predloga vezanih za određeni detalj proslave se nalazi tabela sa svim prethodno kreiranim predlozima za koje je moguće ostaviti komentar.
 <p align="center">
-  <img src="/client_celebration_proposals_table.png">
+  <img src="/organizer_celebration_proposals_table.png">
 </p>
 
-Klikom na dugme `Prihvati`/`Odbij` se prihvata, odnosno odbija odabrani predlog. Predlog je moguće prihvatiti, odnosno odbiti samo ukoliko je njegov status `Neobrađen`.
-<br />
-Klikom na dugme u koloni `Pregled` otvara se prozor sa prikazom odabranog detalja proslave.
+Klikom na dugme `Dodaj` otvara se prozor za [dodavanje nove ponude](#dodavanje-nove-ponude).
+
+## Dodavanje nove ponude
+
+Forma za davanje nove ponude za proslavu je sačinjena od polja za definisanje: oznake predloga, saradnika koji je uključen u predlog i detaljnog opisa predloga. 
+<p align="center">
+  <img src="/organizer_add_celebration_proposal.png">
+</p>
+Klikom na dugme `Dodaj`, pokrenuće se provera validnosti unetih informacija u svim poljima. Ukoliko su uneti nevalidni podaci u bilo kojem polje, bićete obavešteni u vidu poruke sa crvenim tekstom ispod, nakon čega geške mogu biti ispravljene. Kada su sva polja validna, zatvara se tekući prozor i dodaje se nova ponuda u listu svih ponuda za određeni detalj proslave.
 
 ## Pregled pojedinačne ponude
 

@@ -67,7 +67,6 @@ module.exports = {
           children: [
             'auth',
             'home-page',
-            'celebration-requests',
             'celebration-proposals',
             'additional',
           ]
