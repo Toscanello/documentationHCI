@@ -29,7 +29,7 @@ Pregled pojedinačne ponude obuhvata detaljan prikaz konkretne ponude, kao i lis
   <img src="/client_celebration_proposal_view.png">
 </p>
 
-Klikom na dugme `Sala` otvara se [prozor](#pregled-sale).
+Klikom na dugme `Sala` otvara se [prozor](#pregled-sale). Klikom na dugme `Komentariši` otvara se prozor za [komentarisanje pojedinačne ponude](#komentarisanje-pojedinacne-ponude).
 
 ## Pregled sale
 
@@ -37,8 +37,6 @@ Pregled sale se nalazi u prozoru sa detaljnim prikazom sale koja je namenjena pr
 <p align="center">
   <img src="/client_celebration_proposal_hall.png">
 </p>
-
-Klikom na dugme `Komentariši` otvara se prozor za [komentarisanje pojedinačne ponude](#komentarisanje-pojedinacne-ponude).
 
 ## Komentarisanje pojedinačne ponude
 
