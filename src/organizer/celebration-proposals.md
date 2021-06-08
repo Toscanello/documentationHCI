@@ -29,7 +29,11 @@ Pregled pojedinačne ponude obuhvata detaljan prikaz konkretne ponude, kao i lis
   <img src="/client_celebration_proposal_view.png">
 </p>
 
-Klikom na dugme `Sala` otvara se prozor sa detaljnim prikazom sale za koja je namenjena proslavi. Detaljan prikaz obuhvata naziv sale, maksimalan broj osoba, raspored stolova i muzike.
+Klikom na dugme `Sala` otvara se [prozor](#pregled-sale).
+
+## Pregled sale
+
+Pregled sale se nalazi u prozoru sa detaljnim prikazom sale koja je namenjena proslavi. Detaljan prikaz obuhvata naziv sale, maksimalan broj osoba, raspored stolova i muzike.
 <p align="center">
   <img src="/client_celebration_proposal_hall.png">
 </p>
