@@ -13,3 +13,9 @@ features:
   details: Dogovaranje detalja proslave sa organizatorom.
 footer: Od ❤️ napravili Jovana, Albert, Miloš i Luka.
 ---
+::: tip Otvaranje korisničke dokumentacije
+Klikom na dugme `F1` otvara se korisnička dokumentacija koja odgovara kontekstu u kojem se nalazite u aplikaciji.
+:::
+::: tip Otvaranje demo videa
+Klikom na dugme `F2` otvara se demonstracioni video koji sadrži detaljno uputstvo i primer korišćenja aplikacije u kontekstu u kojem se nalazite.
+:::
