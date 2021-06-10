@@ -5,7 +5,7 @@ Na početnoj stranici se nalaze proslave. Proslave se mogu prikazati, izmeniti, 
   <img src="/userToolbar.jpg">
 </p>
 
-Klikom na dugme `Prikaži` otvara se stranica za pregled proslava.
+Klikom na dugme `Prikaži` otvara se stranica za pregled proslava. A nakon toga klikom na `Plan` dobija se plan sale i klikom na neki od stolova mogu da se dodaju i brišu gosti.
 <p align="center">
   <img src="/prikazProslaveUser.jpg">
 </p>
