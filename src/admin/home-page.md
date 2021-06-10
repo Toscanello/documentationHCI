@@ -1,6 +1,6 @@
 # Početna stranica
 
-Na početnoj stranici moguće je izabrati između rada sa [korisnicima](./users.md), [organizatorima](./organizers.md), [saradnicima](./collaborators.md) i [proslavama](./celebrations.md).
+Na početnoj stranici moguće je izabrati između rada sa proslavama, klijentima, organizatorima i saradnicima.
 <p align="center">
-  <img src="/admin_home.png">
+  <img src="/adminToolbar.jpg">
 </p>

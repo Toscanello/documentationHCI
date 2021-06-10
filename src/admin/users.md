@@ -1,16 +1,6 @@
-# Rad sa korisnicima
+# Korisnici
 
-## Pregled korisnika
-
-Na stranici se nalazi tabela sa svim registrovanim korisnicima u sistemu. Klikom na dugme `Nazad` učitava se [početna stranica](./home-page.md).
+Na ovoj stranici je prikaz svih korisnika sa osnovnim informacijama. Korinsici se mogu pretraživati, sortirati i filtrirati. Klikom na dugme `Blokiraj` iskače dijalog za potvrdu blokliranja korisnika
 <p align="center">
-  <img src="/users_table.png">
-</p>
-
-Klik dugmeta u koloni `Obriši` pokreće postupak brisanja određenog korisnika iz sistema.
-<br />
-
-Klikom na dugme u koloni `Detalji` otvara se prozor sa detaljnim prikazom informacija o odabranom korisniku.
-<p align="center">
-  <img src="/user_detailed_view.png">
+  <img src="/pregledKorisnikaAdmin.jpg">
 </p>

@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'proslav.io',
+  title: 'organizoni',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,12 +34,12 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Uputstvo za Korisnika',
-        link: '/user/',
+        text: 'Uputstvo za Klijenta',
+        link: '/klijent/',
       },
       {
         text: 'Uputstvo za Organizatora',
-        link: '/organizer/',
+        link: '/organizator/',
       },
       {
         text: 'Uputstvo za Administratora',
@@ -47,28 +47,26 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/user/': [
+      '/klijent/': [
         {
           title: 'Uputstvo za Korisnika',
           collapsable: false,
           children: [
-            'auth',
+            'prijava',
             'home-page',
-            'celebration-requests',
-            'celebration-proposals',
-            'additional',
+            'new-celebration'
           ]
         }
       ],
-      '/organizer/': [
+      '/organizator/': [
         {
           title: 'Uputstvo za Organizatora',
           collapsable: false,
           children: [
             'auth',
             'home-page',
-            'celebration-proposals',
-            'additional',
+            'event-prikaz',
+            'collaborators'
           ]
         }
       ],
@@ -82,8 +80,7 @@ module.exports = {
             'users',
             'organizers',
             'collaborators',
-            'celebrations',
-            'additional',
+            'events'
           ]
         }
       ],
